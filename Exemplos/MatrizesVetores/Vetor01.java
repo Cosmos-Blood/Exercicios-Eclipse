@@ -1,4 +1,4 @@
-package Exemplos;
+package Exemplos.MatrizesVetores;
 
 public class Vetor01 {
 	public static void main(String [] args) {

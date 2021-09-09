@@ -1,4 +1,4 @@
-package Exemplos;
+package Exemplos.MatrizesVetores;
 
 public class Matriz {
 	public static void main(String [] args) {
@@ -17,7 +17,7 @@ public class Matriz {
 		
 		System.out.println("Calulando a média do alunos... ");
 		
-		double soma;
+		
 	}
 
 }

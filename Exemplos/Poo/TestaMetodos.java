@@ -1,4 +1,4 @@
-package Exemplos;
+package Exemplos.Poo;
 
 public class TestaMetodos {
 	

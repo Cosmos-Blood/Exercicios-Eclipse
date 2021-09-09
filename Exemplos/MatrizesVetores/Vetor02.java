@@ -1,4 +1,4 @@
-package Exemplos;
+package Exemplos.MatrizesVetores;
 
 import java.util.Scanner;
 

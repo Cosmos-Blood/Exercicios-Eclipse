@@ -1,16 +1,16 @@
-package Exemplos;
+package Exemplos.lacos;
 
-public class While02 {
+public class While {
 	
 	public static void main(String [] args) throws InterruptedException {
 		
-		int contador = 10;
+		int contador = 0;
 		
-		while (contador <= 10) {
-			
+		while(contador <= 10) {
 			System.out.println("Repetição... " + contador);
-			contador--;
-			Thread.sleep(500);
+			contador++;
+			Thread.sleep(1000);
+			
 		}
 	}
 
