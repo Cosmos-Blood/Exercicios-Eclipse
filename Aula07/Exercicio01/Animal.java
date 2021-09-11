@@ -1,4 +1,4 @@
-package Aula06;
+package Aula07.Exercicio01;
 
 public class Animal {
 	
